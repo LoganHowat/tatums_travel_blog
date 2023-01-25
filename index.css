@@ -1,0 +1,12 @@
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+#article1{
+    background-image: linear-gradient(grey, white);
+}
+#article2{
+    background-image: linear-gradient(white, grey);
+}
+#mainHeader{
+    background-color:grey;
+}

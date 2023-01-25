@@ -1,5 +1,7 @@
 p{
     font-family: "Times New Roman", Times, serif;
+    display: block;
+    border-style: outset;
 }
 #article1{
     background-image: linear-gradient(grey, white);
@@ -8,5 +10,13 @@ p{
     background-image: linear-gradient(white, grey);
 }
 #mainHeader{
+    text-shadow: 2px 2px;
     background-color:grey;
+}
+img{
+    border-radius: 25px;
+    margin: 5%;
+    width:90%;
+    height:50%;
+    display: block;
 }
